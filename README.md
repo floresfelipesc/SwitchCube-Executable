@@ -21,7 +21,10 @@
  the door to progress!
  
  Featuring 10 brain teasing levels with collectables for an extra challenge!
+
  
  Press the WASD keys to move.
+ 
  Press the Spacebar to jump.
+ 
  Press the Shift key to change your color between blue and red.
